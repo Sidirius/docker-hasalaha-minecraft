@@ -1,0 +1,136 @@
+[2015-03-06 12:44:28] Log opened
+[2015-03-06 12:44:32] Loaded world info for the overworld
+[2015-03-06 13:03:35] Unloaded world info for the overworld
+[2015-03-06 21:22:51] Log opened
+[2015-03-06 21:23:05] Loaded world info for the overworld
+[2015-03-06 21:24:48] Loaded world info for world DIM6
+[2015-03-06 21:29:40] Loader added at [96,80,83] in world DIM6, owner=<data lost; report this bug>, #chunks=0
+[2015-03-06 21:29:40] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=<data lost; report this bug>, #chunks=0
+[2015-03-06 21:29:40] Loader added at [96,80,83] in world DIM6, owner=<data lost; report this bug>, #chunks=1
+[2015-03-06 21:29:40] Loader validated at [96,80,83] in world DIM6, owner=<data lost; report this bug>, #chunks=1
+[2015-03-06 21:29:40] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=<data lost; report this bug>, #chunks=1
+[2015-03-06 21:29:40] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=1
+[2015-03-06 21:29:43] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=1
+[2015-03-06 21:29:43] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=9
+[2015-03-06 21:29:43] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=9
+[2015-03-06 21:29:43] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=25
+[2015-03-06 21:29:44] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=25
+[2015-03-06 21:29:44] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=49
+[2015-03-06 21:29:44] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=49
+[2015-03-06 21:29:44] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 21:29:44] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 21:29:44] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=121
+[2015-03-06 21:29:44] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=121
+[2015-03-06 21:29:44] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=169
+[2015-03-06 21:29:44] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=169
+[2015-03-06 21:29:44] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=225
+[2015-03-06 21:29:46] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=225
+[2015-03-06 21:29:46] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=169
+[2015-03-06 21:29:46] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=169
+[2015-03-06 21:29:46] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=121
+[2015-03-06 21:29:48] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=121
+[2015-03-06 21:29:48] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 21:29:51] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 21:29:51] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=9
+[2015-03-06 21:29:52] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=9
+[2015-03-06 21:29:52] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=9
+[2015-03-06 21:29:53] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=9
+[2015-03-06 21:29:53] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 21:29:55] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 21:29:55] Loader added at [96,80,83] in world DIM6, owner=<server>, #chunks=81
+[2015-03-06 21:30:00] Loader removed (chunks will stay loaded for one second) at [96,80,83] in world DIM6, owner=<server>, #chunks=81
+[2015-03-06 21:30:00] Loader added at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-06 22:12:19] Unloaded world info for the overworld
+[2015-03-06 22:12:19] Unloaded world info for world DIM6
+[2015-03-12 21:20:46] Log opened
+[2015-03-12 21:21:00] Loaded world info for the overworld
+[2015-03-12 21:26:04] Loaded world info for world DIM6
+[2015-03-12 21:26:04] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-12 21:49:10] Unloaded world info for the overworld
+[2015-03-12 21:49:10] Unloaded world info for world DIM6
+[2015-03-15 12:29:41] Log opened
+[2015-03-15 12:29:51] Loaded world info for world DIM6
+[2015-03-15 12:29:51] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-15 12:29:51] Loaded world info for the overworld
+[2015-03-15 12:33:46] Unloaded world info for the overworld
+[2015-03-15 12:33:47] Unloaded world info for world DIM6
+[2015-03-15 12:35:25] Log opened
+[2015-03-15 12:35:34] Loaded world info for world DIM6
+[2015-03-15 12:35:34] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-03-15 12:35:34] Loaded world info for the overworld
+[2015-03-15 14:10:28] Unloaded world info for the overworld
+[2015-03-15 14:10:29] Unloaded world info for world DIM6
+[2015-05-24 13:46:23] Log opened
+[2015-05-24 13:46:38] Loaded world info for world DIM6
+[2015-05-24 13:46:38] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-05-24 13:46:38] Loaded world info for the overworld
+[2015-05-24 13:49:50] Unloaded world info for the overworld
+[2015-05-24 13:49:50] Unloaded world info for world DIM6
+[2015-05-24 13:52:20] Log opened
+[2015-05-24 13:52:33] Loaded world info for world DIM6
+[2015-05-24 13:52:33] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-05-24 13:52:33] Loaded world info for the overworld
+[2015-05-24 13:58:14] Unloaded world info for the overworld
+[2015-05-24 13:58:14] Unloaded world info for world DIM6
+[2015-05-30 20:46:08] Log opened
+[2015-05-30 20:46:13] Loaded world info for world DIM6
+[2015-05-30 20:46:13] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-05-30 20:46:13] Loaded world info for the overworld
+[2015-05-30 20:46:22] Unloaded world info for the overworld
+[2015-05-30 20:46:22] Unloaded world info for world DIM6
+[2015-05-30 21:37:45] Log opened
+[2015-05-30 21:37:49] Loaded world info for the overworld
+[2015-05-30 21:38:30] Log opened
+[2015-05-30 21:38:36] Loaded world info for the overworld
+[2015-05-30 21:39:17] Log opened
+[2015-05-30 21:39:24] Loaded world info for the overworld
+[2015-05-30 21:40:00] Log opened
+[2015-05-30 21:40:06] Loaded world info for the overworld
+[2015-05-30 21:40:45] Log opened
+[2015-05-30 21:40:51] Loaded world info for the overworld
+[2015-05-30 21:42:12] Log opened
+[2015-05-30 21:42:19] Loaded world info for the overworld
+[2015-05-30 21:43:27] Log opened
+[2015-05-30 21:43:34] Loaded world info for the overworld
+[2015-05-30 21:43:38] Unloaded world info for the overworld
+[2015-05-30 21:45:23] Log opened
+[2015-05-30 21:45:30] Loaded world info for the overworld
+[2015-05-30 21:45:38] Unloaded world info for the overworld
+[2015-05-30 21:46:40] Log opened
+[2015-05-30 21:46:45] Loaded world info for the overworld
+[2015-05-30 21:47:08] Unloaded world info for the overworld
+[2015-05-30 21:48:21] Log opened
+[2015-05-30 21:48:26] Loaded world info for the overworld
+[2015-05-30 21:49:35] Log opened
+[2015-05-30 21:49:40] Loaded world info for world DIM6
+[2015-05-30 21:49:40] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-05-30 21:49:40] Loaded world info for the overworld
+[2015-05-30 21:54:44] Unloaded world info for the overworld
+[2015-05-30 21:54:44] Unloaded world info for world DIM6
+[2015-05-30 22:21:43] Log opened
+[2015-05-30 22:22:25] Loaded world info for world DIM6
+[2015-05-30 22:22:25] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-05-30 22:22:26] Loaded world info for the overworld
+[2015-05-30 22:32:37] Unloaded world info for the overworld
+[2015-05-30 22:32:37] Unloaded world info for world DIM6
+[2015-05-30 23:08:52] Log opened
+[2015-05-30 23:09:20] Loaded world info for world DIM6
+[2015-05-30 23:09:21] Loader validated at [96,80,83] in world DIM6, owner=Sidirius, #chunks=81
+[2015-05-30 23:09:21] Loaded world info for the overworld
+[2015-05-31 12:45:04] Unloaded world info for the overworld
+[2015-05-31 12:45:04] Unloaded world info for world DIM6
+[2015-05-31 12:48:09] Log opened
+[2015-05-31 12:49:03] Loaded world info for the overworld
+[2015-05-31 12:50:47] Unloaded world info for the overworld
+[2015-05-31 12:52:20] Log opened
+[2015-05-31 12:52:56] Loaded world info for the overworld
+[2015-05-31 12:56:28] Unloaded world info for the overworld
+[2015-05-31 12:57:46] Log opened
+[2015-05-31 12:58:17] Loaded world info for the overworld
+[2015-05-31 13:00:57] Unloaded world info for the overworld
+[2015-05-31 13:03:31] Log opened
+[2015-05-31 13:03:58] Loaded world info for the overworld
+[2015-05-31 13:19:57] Unloaded world info for the overworld
+[2015-05-31 13:21:26] Log opened
+[2015-05-31 13:21:56] Loaded world info for the overworld
+[2015-06-01 14:33:45] Unloaded world info for the overworld
