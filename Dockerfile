@@ -43,11 +43,13 @@ RUN mkdir /tmp/jna-4.0.0 && \
 	java -jar jna.jar
 	
 VOLUME /mcserver/Hasalaha_Welt
+WORKDIR /mcserver/
 
 ADD files/scripts/supervisord.conf /
 ADD files/scripts/startup.sh /
 ADD files/mcserver/ /mcserver/
 EXPOSE 25565
 EXPOSE 8123
-EXPOSE 22
-ENTRYPOINT ["/startup.sh"]
+#EXPOSE 22
+#ENTRYPOINT ["/startup.sh"]
+CMD ["java", "-jar", "forge-1.7.10-10.13.2.1291-universal.jar", "nogui"]
