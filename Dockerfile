@@ -42,7 +42,6 @@ RUN mkdir /tmp/jna-4.0.0 && \
 	ln -s jna-platform-4.0.0.jar jna-platform.jar && \
 	java -jar jna.jar
 
-
 ADD files/scripts/supervisord.conf /
 ADD files/scripts/startup.sh /
 ADD files/mcserver/ /mcserver/
