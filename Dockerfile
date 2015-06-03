@@ -47,5 +47,6 @@ ADD files/scripts/supervisord.conf /
 ADD files/scripts/startup.sh /
 ADD files/mcserver/ /mcserver/
 EXPOSE 25565
+EXPOSE 8123
 EXPOSE 22
 ENTRYPOINT ["/startup.sh"]
